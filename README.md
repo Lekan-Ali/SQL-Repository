@@ -1,7 +1,9 @@
 # SQL-Repository
 Collation of SQL course Projects, Exercises.
 
-- Questions and my solutions are in screen-shots. (For exercises that i got wrong, i will add an asterick to my solution screen-shot).
+- Questions and my solutions are in screen-shots. (For exercises that i got wrong, i will add an asterick to my solution screen-shot);
+- The first few questions are very basic (for an intermediate user) but the questions get tougher over time;
+- I pride myself in writing extremely readable code (my sql style guide is from Brooklyn data -> https://github.com/Lekan-Ali/co/blob/main/sql_style_guide.md#ctes);
 
 
 ![image](https://user-images.githubusercontent.com/77731827/112274330-a6f87200-8c7e-11eb-9a55-454893217df6.png)
