@@ -46,6 +46,22 @@ Collation of SQL course Projects, Exercises.
 
 ![image](https://user-images.githubusercontent.com/77731827/112283093-0f981c80-8c88-11eb-8db6-d545d7479050.png)
 
+---------------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/77731827/112288674-dfec1300-8c8d-11eb-90ab-4841b21373c8.png)
+
+![image](https://user-images.githubusercontent.com/77731827/112288736-ef6b5c00-8c8d-11eb-8a50-e1595bd2574c.png)
+
+![image](https://user-images.githubusercontent.com/77731827/112288791-fc884b00-8c8d-11eb-9a4c-60aa33582ed1.png)
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/77731827/112289603-bd0e2e80-8c8e-11eb-93b5-fdf46cc7f03d.png)
+
+![image](https://user-images.githubusercontent.com/77731827/112289716-d4e5b280-8c8e-11eb-9be3-b705fa459cd7.png)
+
+![image](https://user-images.githubusercontent.com/77731827/112289785-e5962880-8c8e-11eb-9bf6-4dacece83676.png)
 
 
