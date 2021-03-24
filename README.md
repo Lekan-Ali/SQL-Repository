@@ -72,5 +72,10 @@ Collation of SQL course Projects, Exercises.
 
 ![image](https://user-images.githubusercontent.com/77731827/112293609-9c47d800-8c92-11eb-8855-6aa7dda660d7.png)
 
+-------------------------------------------------------------------------------------------------------------
+
+Last question (question 8 is wrong). Solution below:
+
+![image](https://user-images.githubusercontent.com/77731827/112298879-838df100-8c97-11eb-97cd-dc1b69247915.png)
 
 
