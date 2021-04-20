@@ -74,7 +74,7 @@ Collation of SQL course Projects, Exercises.
 
 -------------------------------------------------------------------------------------------------------------
 
-Last question (question 8 is wrong). Solution below:
+Last question (Solution is wrong). Correction below:
 
 ![image](https://user-images.githubusercontent.com/77731827/112298879-838df100-8c97-11eb-97cd-dc1b69247915.png)
 
